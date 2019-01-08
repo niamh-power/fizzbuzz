@@ -8,4 +8,6 @@ target 'FizzBuzz Game' do
   # Pods for FizzBuzz Game
   pod 'Fabric'
   pod 'Crashlytics'
+
+  pod 'Firebase/Core'
 end
